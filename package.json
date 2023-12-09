@@ -1,0 +1,13 @@
+{
+  "name": "app-cerveceria",
+  "version": "1.0.0",
+  "description": "App que genera cupones de descuento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node index.js"
+  },
+  "keywords": ["cerveza", "cupon","descuento"],
+  "author": "Guillermo Rodriguez Aires",
+  "license": "MIT"
+}
